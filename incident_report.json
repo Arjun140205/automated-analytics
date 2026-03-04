@@ -1,0 +1,307 @@
+{
+  "report_title": "Automated Incident Report \u2014 HTTP 500 & 503 Errors",
+  "total_failing_ips": 50,
+  "total_errors": 1338,
+  "failing_nodes": [
+    {
+      "ip_address": "128.149.253.20",
+      "http_500_count": 20,
+      "http_503_count": 15,
+      "total_errors": 35
+    },
+    {
+      "ip_address": "168.94.106.142",
+      "http_500_count": 21,
+      "http_503_count": 14,
+      "total_errors": 35
+    },
+    {
+      "ip_address": "191.35.17.79",
+      "http_500_count": 15,
+      "http_503_count": 20,
+      "total_errors": 35
+    },
+    {
+      "ip_address": "72.128.255.74",
+      "http_500_count": 17,
+      "http_503_count": 17,
+      "total_errors": 34
+    },
+    {
+      "ip_address": "91.223.20.141",
+      "http_500_count": 17,
+      "http_503_count": 17,
+      "total_errors": 34
+    },
+    {
+      "ip_address": "80.75.170.24",
+      "http_500_count": 11,
+      "http_503_count": 21,
+      "total_errors": 32
+    },
+    {
+      "ip_address": "13.196.109.145",
+      "http_500_count": 23,
+      "http_503_count": 9,
+      "total_errors": 32
+    },
+    {
+      "ip_address": "153.68.233.92",
+      "http_500_count": 11,
+      "http_503_count": 21,
+      "total_errors": 32
+    },
+    {
+      "ip_address": "205.232.137.71",
+      "http_500_count": 9,
+      "http_503_count": 22,
+      "total_errors": 31
+    },
+    {
+      "ip_address": "125.45.90.204",
+      "http_500_count": 12,
+      "http_503_count": 19,
+      "total_errors": 31
+    },
+    {
+      "ip_address": "13.69.158.186",
+      "http_500_count": 14,
+      "http_503_count": 16,
+      "total_errors": 30
+    },
+    {
+      "ip_address": "34.148.151.109",
+      "http_500_count": 15,
+      "http_503_count": 15,
+      "total_errors": 30
+    },
+    {
+      "ip_address": "210.19.207.165",
+      "http_500_count": 13,
+      "http_503_count": 16,
+      "total_errors": 29
+    },
+    {
+      "ip_address": "80.81.199.149",
+      "http_500_count": 14,
+      "http_503_count": 14,
+      "total_errors": 28
+    },
+    {
+      "ip_address": "142.95.87.62",
+      "http_500_count": 15,
+      "http_503_count": 13,
+      "total_errors": 28
+    },
+    {
+      "ip_address": "197.173.252.253",
+      "http_500_count": 20,
+      "http_503_count": 8,
+      "total_errors": 28
+    },
+    {
+      "ip_address": "199.30.101.231",
+      "http_500_count": 14,
+      "http_503_count": 14,
+      "total_errors": 28
+    },
+    {
+      "ip_address": "22.12.186.59",
+      "http_500_count": 16,
+      "http_503_count": 12,
+      "total_errors": 28
+    },
+    {
+      "ip_address": "201.17.137.168",
+      "http_500_count": 15,
+      "http_503_count": 13,
+      "total_errors": 28
+    },
+    {
+      "ip_address": "192.72.210.235",
+      "http_500_count": 15,
+      "http_503_count": 13,
+      "total_errors": 28
+    },
+    {
+      "ip_address": "219.79.117.97",
+      "http_500_count": 14,
+      "http_503_count": 14,
+      "total_errors": 28
+    },
+    {
+      "ip_address": "62.255.62.166",
+      "http_500_count": 18,
+      "http_503_count": 10,
+      "total_errors": 28
+    },
+    {
+      "ip_address": "20.128.246.205",
+      "http_500_count": 16,
+      "http_503_count": 11,
+      "total_errors": 27
+    },
+    {
+      "ip_address": "98.14.50.218",
+      "http_500_count": 14,
+      "http_503_count": 13,
+      "total_errors": 27
+    },
+    {
+      "ip_address": "135.207.125.104",
+      "http_500_count": 10,
+      "http_503_count": 17,
+      "total_errors": 27
+    },
+    {
+      "ip_address": "138.56.80.89",
+      "http_500_count": 14,
+      "http_503_count": 12,
+      "total_errors": 26
+    },
+    {
+      "ip_address": "112.9.24.3",
+      "http_500_count": 13,
+      "http_503_count": 13,
+      "total_errors": 26
+    },
+    {
+      "ip_address": "192.118.78.218",
+      "http_500_count": 12,
+      "http_503_count": 14,
+      "total_errors": 26
+    },
+    {
+      "ip_address": "18.133.165.95",
+      "http_500_count": 13,
+      "http_503_count": 13,
+      "total_errors": 26
+    },
+    {
+      "ip_address": "122.63.216.55",
+      "http_500_count": 11,
+      "http_503_count": 15,
+      "total_errors": 26
+    },
+    {
+      "ip_address": "208.165.131.22",
+      "http_500_count": 8,
+      "http_503_count": 17,
+      "total_errors": 25
+    },
+    {
+      "ip_address": "52.210.202.45",
+      "http_500_count": 13,
+      "http_503_count": 12,
+      "total_errors": 25
+    },
+    {
+      "ip_address": "133.202.236.234",
+      "http_500_count": 12,
+      "http_503_count": 13,
+      "total_errors": 25
+    },
+    {
+      "ip_address": "108.234.168.138",
+      "http_500_count": 12,
+      "http_503_count": 13,
+      "total_errors": 25
+    },
+    {
+      "ip_address": "207.76.114.154",
+      "http_500_count": 7,
+      "http_503_count": 18,
+      "total_errors": 25
+    },
+    {
+      "ip_address": "156.124.91.38",
+      "http_500_count": 8,
+      "http_503_count": 16,
+      "total_errors": 24
+    },
+    {
+      "ip_address": "159.188.91.96",
+      "http_500_count": 16,
+      "http_503_count": 8,
+      "total_errors": 24
+    },
+    {
+      "ip_address": "29.0.126.180",
+      "http_500_count": 12,
+      "http_503_count": 12,
+      "total_errors": 24
+    },
+    {
+      "ip_address": "91.122.57.170",
+      "http_500_count": 11,
+      "http_503_count": 12,
+      "total_errors": 23
+    },
+    {
+      "ip_address": "81.189.228.148",
+      "http_500_count": 10,
+      "http_503_count": 13,
+      "total_errors": 23
+    },
+    {
+      "ip_address": "163.156.94.46",
+      "http_500_count": 12,
+      "http_503_count": 11,
+      "total_errors": 23
+    },
+    {
+      "ip_address": "10.61.93.148",
+      "http_500_count": 10,
+      "http_503_count": 13,
+      "total_errors": 23
+    },
+    {
+      "ip_address": "175.186.127.98",
+      "http_500_count": 7,
+      "http_503_count": 16,
+      "total_errors": 23
+    },
+    {
+      "ip_address": "203.52.68.188",
+      "http_500_count": 11,
+      "http_503_count": 11,
+      "total_errors": 22
+    },
+    {
+      "ip_address": "93.249.153.234",
+      "http_500_count": 12,
+      "http_503_count": 9,
+      "total_errors": 21
+    },
+    {
+      "ip_address": "96.114.132.127",
+      "http_500_count": 9,
+      "http_503_count": 12,
+      "total_errors": 21
+    },
+    {
+      "ip_address": "111.13.130.228",
+      "http_500_count": 8,
+      "http_503_count": 13,
+      "total_errors": 21
+    },
+    {
+      "ip_address": "38.168.21.211",
+      "http_500_count": 9,
+      "http_503_count": 12,
+      "total_errors": 21
+    },
+    {
+      "ip_address": "23.213.115.228",
+      "http_500_count": 13,
+      "http_503_count": 6,
+      "total_errors": 19
+    },
+    {
+      "ip_address": "93.174.96.22",
+      "http_500_count": 13,
+      "http_503_count": 5,
+      "total_errors": 18
+    }
+  ]
+}
